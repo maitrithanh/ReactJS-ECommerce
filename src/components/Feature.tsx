@@ -1,4 +1,3 @@
-import React from 'react'
 import { LiaShippingFastSolid, LiaMoneyBillWaveAltSolid, LiaGiftSolid  } from "react-icons/lia";
 import { BiSupport } from "react-icons/bi";
 import FeatureCard from './FeatureCard';

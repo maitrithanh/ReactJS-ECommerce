@@ -1,4 +1,3 @@
-import React from 'react'
 import ProductCard from './ProductCard'
 const data =[
     {id: 0, img: "product__5.webp", name:"Dried Mango", price: "$500"},

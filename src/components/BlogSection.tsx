@@ -8,7 +8,7 @@ const data = [
 
 const BlogSection = () => {
   return (
-    <div className='container pt-16'>
+    <div className='container pt-16' id='Blog'>
         <h2 className="font-bold text-2xl">
             Lastest News
         </h2>

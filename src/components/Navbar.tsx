@@ -11,7 +11,7 @@ const Navbar = ({setShowCart}:any) => {
           <div className="relative w-full max-w-[500px] m-4">
            <ul className="flex">
             <li className="mr-4 px-4 py-2 font-medium active">
-              <a href="#">Home</a>
+              <a href="#">Home</ a>
             </li>
             <li className="mr-4 rounded-full px-4 py-2 font-medium">
               <a href="#Blog">Blog</a>
